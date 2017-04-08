@@ -1,0 +1,19 @@
+{
+  "name": "spotify_search",
+  "version": "1.0.0",
+  "description": "Searches name/artists from spotify and displays results",
+  "main": "SpotifySearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PSIB0T"
+  },
+  "author": "Arvind",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.0",
+    "lodash": "^4.17.4"
+  }
+}
